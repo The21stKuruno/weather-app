@@ -1,1 +1,1 @@
-console.log('set up finished!');
+console.log('connected!');
